@@ -1,1 +1,1 @@
-# ninja.store
+# ninja store
